@@ -1,0 +1,27 @@
+ChippyOS for the Heatbit Bitair: license terms
+
+Copyright (c) 2026 ENKoDED Software. All rights reserved.
+
+1. What you may do. You may get ChippyOS from chippyos.com, from its GitHub repository
+   (github.com/ENKoDED-Software/ChippyOS-Bitair) or through your unit's own updates, install it on Heatbit Bitair units you own or
+   are allowed to manage, and use it there, free of charge.
+
+2. What you may not do. You may not sell ChippyOS, reverse engineer, decompile or disassemble it except as the law allows despite
+   this term, modify it, or distribute modified copies. You may share the unmodified release files with these terms.
+
+3. Third-party parts. The image contains parts made by others under their own licenses, listed with their license texts at
+   https://chippyos.com/ChippyAir/licenses.html. Nothing in these terms limits your rights under those licenses for those parts.
+
+4. Your hardware. ChippyOS changes how the unit runs. It sets its own limits on clock, voltage, current, power and temperature,
+   and keeps the stock firmware in place so you can go back to it, but you install and run it at your own risk. Heatbit's
+   warranty or support may not cover a unit running other firmware.
+
+5. No warranty. CHIPPYOS IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+   LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING DAMAGE TO HARDWARE, LOSS OF MINING REWARDS OR LOSS OF DATA,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH CHIPPYOS OR ITS USE.
+
+6. Not affiliated. ChippyOS is independent. It is not made by, affiliated with or endorsed by Heatbit. "Heatbit" and "Bitair"
+   are named only to say which hardware it runs on.
+
+7. Changes. These terms may change with a later release. The terms in a release apply to that release.

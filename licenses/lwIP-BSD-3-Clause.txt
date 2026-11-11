@@ -1,0 +1,86 @@
+lwIP 2.2.0, the networking software included in ChippyOS, with Espressif's changes (Espressif Systems (Shanghai) CO LTD,
+2015-2025). Its copyright notices and license follow.
+
+Copyright (c) 2001, 2002 Swedish Institute of Computer Science.
+Copyright (c) 2001-2004 Swedish Institute of Computer Science.
+Copyright (c) 2001-2003 Swedish Institute of Computer Science.
+Copyright (c) 2001 Swedish Institute of Computer Science.
+Copyright (c) 2018 Swedish Institute of Computer Science.
+uIP version Copyright (c) 2002-2003, Adam Dunkels. (DNS)
+Copyright (c) 2001-2004 Leon Woestenberg <leon.woestenberg@gmx.net>
+Copyright (c) 2003-2004 Leon Woestenberg <leon.woestenberg@axon.tv>
+Copyright (c) 2001-2004 Axon Digital Design B.V., The Netherlands.
+Copyright (c) 2003-2004 Axon Digital Design B.V., The Netherlands.
+Copyright (c) 2010 Inico Technologies Ltd.
+Copyright (c) 2007-2009 Frédéric Bernon, Simon Goldschmidt
+Copyright (c) 2017 Simon Goldschmidt <goldsimon@gmx.de>
+Copyright (c) 2018 Simon Goldschmidt <goldsimon@gmx.de>
+Copyright (c) 2016 The MINIX 3 Project.
+Copyright (c) 2017 The MINIX 3 Project.
+Copyright (c) 2007 Dominik Spies <kontakt@dspies.de>
+Copyright (c) 2018 Jasper Verschueren <jasper.verschueren@apart-audio.com>
+Copyright (c) 2017 Dirk Ziegelmeier.
+Copyright (c) 2017 Joel Cunningham, Garmin International, Inc. <joel.cunningham@garmin.com>
+All rights reserved.
+
+The netdb API (netdb.c and netdb.h), by Simon Goldschmidt, carries the same license with no copyright line of its own.
+
+All of these files, except the IGMP files below, carry this license, as in lwIP's own COPYING file:
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+3. The name of the author may not be used to endorse or promote products
+   derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
+SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
+OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGE.
+
+
+The IGMP files (igmp.c and igmp.h) carry their own notice and license, verbatim:
+
+Copyright (c) 2002 CITEL Technologies Ltd.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+3. Neither the name of CITEL Technologies Ltd nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY CITEL TECHNOLOGIES AND CONTRIBUTORS ``AS IS''
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED.  IN NO EVENT SHALL CITEL TECHNOLOGIES OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.
+
+This file is a contribution to the lwIP TCP/IP stack.
+The Swedish Institute of Computer Science and Adam Dunkels
+are specifically granted permission to redistribute this
+source code.
+
