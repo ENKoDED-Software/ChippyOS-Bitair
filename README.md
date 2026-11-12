@@ -10,14 +10,14 @@ which hardware it runs on.
 
 ## What it does
 
-- **Three modes:** Normal (about 1.2 TH/s), Boosted (about 1.4 TH/s) and Overdrive (about 1.65 TH/s), changed any time from the
-  unit's page.
+- **Three modes:** Normal (about 1.1 - 1.3 TH/s), Boosted (about 1.3 - 1.5 TH/s) and Overdrive (about 1.4 - 1.7 TH/s), changed
+  any time from the unit's page; hash rate varies per ASIC.
 - **Your choice of fan:** Normal can run on Low, Medium or High, Boosted on Medium or High, and Overdrive on High only. Choose it
   on the page or with the panel's fan button; for the mode that is running, whichever you changed last wins.
-- **Built-in protection:** if the miner gets too warm, the fan goes to High by itself, and Boosted and Overdrive drop to a lower
-  mode, as they also do close to the power limit. The lower mode stays until you choose the mode again on the page or the unit
-  loses power. Past firm limits on temperature, power and supply, or after 5 power dips in a row, mining stops with the fan on
-  High.
+- **Built-in protection:** if the miner gets too warm, the fan goes to High by itself. If Boosted or Overdrive reaches a firm
+  limit on temperature, current or power, it drops to a lower mode and keeps mining; the lower mode stays until you choose the
+  mode again on the page or the unit loses power. Mining stops with the fan on High when Normal reaches one of those limits, on a
+  problem with the supply, or after 5 power dips in a row.
 - **A page on the unit,** opened from any browser on your network: a dashboard with a 24-hour chart, the case's air quality,
   temperature and humidity, the local weather and outdoor air for a place you set, your pool's results, settings and a live log.
 - **Your pools:** a primary pool and a fallback the unit switches to by itself if the primary stops working. The pool must
